@@ -1,0 +1,20 @@
+地球：
+k-means：0.4895
+
+labelspreading：
+gamma：5 42.04%
+gamma：5 42.04%
+gamma：5 42.04%
+gamma：5 42.04%
+gamma：10 42.04%
+
+labelpropagation：
+
+月球：
+k-means：40.80%
+
+labelspreading： 
+	rbf：
+		gamma：
+
+labelpropagation：

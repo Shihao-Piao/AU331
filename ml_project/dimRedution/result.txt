@@ -1,0 +1,23 @@
+train: 268.16096806526184 seconds
+Test acc: 0.5000
+test: 0.0958547592163086 seconds
+
+train: 272.04862999916077 seconds
+Test acc: 0.5034
+test: 0.0982520580291748 seconds
+
+train: 280.92598605155945 seconds
+Test acc: 0.4831
+test: 0.09896183013916016 seconds
+
+train: 279.8839328289032 seconds
+Test acc: 0.5304
+test: 0.11168217658996582 seconds
+
+train: 273.39166831970215 seconds
+Test acc: 0.5642
+test: 0.07729101181030273 seconds
+
+train: 275.00479197502136 seconds
+Test acc: 0.4932
+test: 0.08885383605957031 seconds
